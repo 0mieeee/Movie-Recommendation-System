@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-machine learnin project
+machine learning project
